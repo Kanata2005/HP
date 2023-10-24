@@ -1,0 +1,21 @@
+header {
+  background-color: green;
+  height: 200px;
+  }
+  .header-list li {
+  list-style: none;
+  }
+  footer { 
+    background-color: #ccc3cc;
+    height: 270px;}
+    .footer-logo {
+    color: #ff0000;
+    font-size: 32px;
+    float: left;}
+    .footer-list {
+    color: #ff0000;
+    font-size: 24px;
+    float: right;}
+    .footer-inner{
+    test-align: center;}
+  
